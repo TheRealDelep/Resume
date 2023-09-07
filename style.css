@@ -168,7 +168,7 @@ body {
     display: grid;
     grid-template-columns: 20% 80%;
     margin-top: 0;
-    margin-bottom: 1cm;
+    margin-bottom: .75cm;
 }
 
 .history-item-date {
